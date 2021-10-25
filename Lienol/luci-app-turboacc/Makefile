@@ -25,7 +25,7 @@ config PACKAGE_TURBOACC_INCLUDE_OFFLOADING
 
 config PACKAGE_TURBOACC_INCLUDE_SHORTCUT_FE
 	bool "Include Shortcut-FE"
-	default y
+	default n
 
 config PACKAGE_TURBOACC_INCLUDE_BBR_CCA
 	bool "Include BBR CCA"
